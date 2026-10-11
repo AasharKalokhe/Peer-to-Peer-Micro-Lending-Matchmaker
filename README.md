@@ -1,2 +1,7 @@
-# Peer-to-Peer-Micro-Lending-Matchmaker
-Build an Automated P2P Micro-Lending Matchmaker that takes an investor’s preferences and instantly ranks the open borrower listings from best to worst fit, balancing risk against expected return.
+PS C:\Users\dell> git status
+fatal: not a git repository (or any of the parent directories): .git
+PS C:\Users\dell> git remote -v
+fatal: not a git repository (or any of the parent directories): .git
+PS C:\Users\dell> 
+
+
